@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: January 9, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: Started to configure Gulp processes for WordPress redesign of a RoR site I made last fall, to a) make it easier for people to make blog posts, and b) to get more experience with WordPress dev and design.
 
@@ -10,11 +9,10 @@
 **Link to work:** [Nashville Stuttering Association WP Github repo](https://github.com/kindlingscript/wp-nashville-nsa)
 
 
-### Day 1: January 10, 2017 (FUTURE)
+### Day 1: January 10, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Worked on setting up initial PostCSS (Gulp integration + CSS organization), started to set up functions.php, and split off to make front-page.php for the homepage, saving index.php for blog page later. Added Normalize.css.
 
-**Thoughts** 
+**Thoughts:** It took a bit of going back and forth to recall the code needed to integrate PostCSS successfully, but got past it pretty easily. Starting to make the CSS organization was fun. (I was going to catch up on President Obama's farewell speech first before doing this (was trying to watch + do my non-programming job at same time, no luck), but knew it wouldn't leave enough time to. So I'll watch it now, haha.)
 
-**Link(s) to work**
-1. 
+**Link to work:** [Nashville Stuttering Association WP Github commit](https://github.com/kindlingscript/wp-nashville-nsa/commit/fecf6bf5d1cd5222fdfe93c1b92eda933ed5d24c)
