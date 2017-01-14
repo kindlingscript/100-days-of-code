@@ -36,3 +36,12 @@
 **Thoughts:** As I'm working a non-programming job right now, I typically just get to work on this in the evenings, at least during the weekdays. I like how this is keeping me going with dev/design work so I don't "fall behind" while I work on something that doesn't involve coding during the rest of my time. I want to dive more into positioning with CSS.
 
 **Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
+
+
+### Day 4: January 13, 2017
+
+**Today's Progress**: Helloooo, so today I added the main content sections of the front page, i.e. here's our blog, also here's where we meet with a Google Maps plugin to boot. Also added the footer for the front page(.php). Still plugging along at CSS for mobile-first, but larger screens will get CSS love soon enough!
+
+**Thoughts:** Pretty standard day, not too easy or too challenging as I was trying to match up (to some degree) the Ruby on Rails version of the homepage to this new WordPress one. I was able to utilize the WP Google Maps plugin, and so far I like it, though the free version is missing a few things I was able to do on the RoR site, like a description when clicking on the marker instead of just the address. Not paying $40 for the pro version right now, though. ✌️
+
+**Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
