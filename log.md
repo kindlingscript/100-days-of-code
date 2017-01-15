@@ -45,3 +45,12 @@
 **Thoughts:** Pretty standard day, not too easy or too challenging as I was trying to match up (to some degree) the Ruby on Rails version of the homepage to this new WordPress one. I was able to utilize the WP Google Maps plugin, and so far I like it, though the free version is missing a few things I was able to do on the RoR site, like a description when clicking on the marker instead of just the address. Not paying $40 for the pro version right now, though. ✌️
 
 **Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
+
+
+### Day 5: January 14, 2017
+
+**Today's Progress**: A lot of tinkering with CSS for responsiveness. It's not organized and named well enough for me to feel great about it yet, that's something I'm going to be continually working on improving. Since going through most of [Brad Schiff's course on Udemy](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/), I've borrowed inspiration from him with grid-making, and kind of a BEM style. Today was going from, "This isn't working well, I don't like it," to, "All right let's start changing things up. Yeah, this is doing better."
+
+**Thoughts:** In a sense, this first project is launching off from the course mentioned above, taking what I love from it and incorporating it into my own work ("practice makes perfect, or at least closer to perfect"). It's helping to solidify the knowledge Brad imparts in his videos. I'm also trying to break away from leaning on frameworks like Bootstrap or Materialize (or Foundation) as well. They're great for speed in getting a MVP up and running, but that's not what I'm doing here; I want to better understand how and why certain things work "under the hood," per se.
+
+**Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
