@@ -54,3 +54,12 @@
 **Thoughts:** In a sense, this first project is launching off from the course mentioned above, taking what I love from it and incorporating it into my own work ("practice makes perfect, or at least closer to perfect"). It's helping to solidify the knowledge Brad imparts in his videos. I'm also trying to break away from leaning on frameworks like Bootstrap or Materialize (or Foundation) as well. They're great for speed in getting a MVP up and running, but that's not what I'm doing here; I want to better understand how and why certain things work "under the hood," per se.
 
 **Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
+
+
+### Day 6: January 15, 2017
+
+**Today's Progress**: Work on finishing up footer work on the front page. Responsiveness.
+
+**Thoughts:** Most of this was pretty easy until the end, when I spent around ten minutes trying to figure out why the copyright's border-bottom wasn't visibly showing up when hovered over with the mouse. Wound up I needed to add bottom-padding to its parent class. Simple stuff like that, tripping us up every now and then to make sure we know we're still a bit dumb, overlooking things! 😉
+
+**Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
