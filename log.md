@@ -63,3 +63,12 @@
 **Thoughts:** Most of this was pretty easy until the end, when I spent around ten minutes trying to figure out why the copyright's border-bottom wasn't visibly showing up when hovered over with the mouse. Wound up I needed to add bottom-padding to its parent class. Simple stuff like that, tripping us up every now and then to make sure we know we're still a bit dumb, overlooking things! 😉
 
 **Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
+
+
+### Day 7: January 16, 2017
+
+**Today's Progress**: Started on coding up the blog page + registered the sidebar for said page.
+
+**Thoughts:** Not too many about today? Um, it was a slower day probably because of other work I had to do. I'm looking forward to putting the sidebar in action on the blog page soon. Hope to start on that tomorrow. On another note, I feel that towards the end of this project, I'll be going back and giving the CSS a thorough look-through and editing to give things better names and organization.
+
+**Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
