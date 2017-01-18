@@ -72,3 +72,12 @@
 **Thoughts:** Not too many about today? Um, it was a slower day probably because of other work I had to do. I'm looking forward to putting the sidebar in action on the blog page soon. Hope to start on that tomorrow. On another note, I feel that towards the end of this project, I'll be going back and giving the CSS a thorough look-through and editing to give things better names and organization.
 
 **Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
+
+
+### Day 8: January 17, 2017
+
+**Today's Progress**: Spent time in index.php, content-blog.php, and within the CSS modules folder for the most part. I styled the main blog page for mobile screens (barring the sidebar which is still in default appearance mode).
+
+**Thoughts:** I enjoyed playing around with the CSS until I got it to where I'm (mostly) happy for now. Used a transition hover effect on the blog entry titles, centering everything but the summary / excerpt of the entry. That will change for larger screens. Only bit of trouble I had was getting the `a` element within the `entry-summary` class div to center. I tried both `margin: 0 auto` and `text-align: center` on it, but it wouldn't work until I put the element itself within its own div.
+
+**Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
