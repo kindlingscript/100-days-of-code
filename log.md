@@ -81,3 +81,40 @@
 **Thoughts:** I enjoyed playing around with the CSS until I got it to where I'm (mostly) happy for now. Used a transition hover effect on the blog entry titles, centering everything but the summary / excerpt of the entry. That will change for larger screens. Only bit of trouble I had was getting the `a` element within the `entry-summary` class div to center. I tried both `margin: 0 auto` and `text-align: center` on it, but it wouldn't work until I put the element itself within its own div.
 
 **Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
+
+
+### Day 9: January 18, 2017 aka the DAY WHERE I STOPPED DOING THIS LOG HERE HAHAHA NOW I GOTTA CATCH UP, CATCH ME? yeah
+# check for live updates on my [tweeter-twit](https://twitter.com/kindlingscript) in case I get behind here again ahhh
+
+**Today's Progress**: I finished adding a default header to the site (blue vs white bg) + more tweaks to blog page styles.
+
+**Thoughts:** Adding a new header was fun! I hadn't done that before, and it helps differentiate the front page from all the others. Plus, the white header really only worked with the front page, as all the other pages will have white bg and having a blue bg header is better for them.
+
+**Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
+
+
+### Day 10: January 19, 2017 (omg this was the last full day of the Obama Administration 😭)
+
+**Today's Progress**: Took a break from building out the WP website today and went back to complete some JavaScript challenges at Free Code Camp's site.
+
+**Thoughts:** I hadn't really planned out more to do with the WP website (and I need to ask the people at the meetup what all else they might want on there [and get photos]), so I thought now was as good a time as any to tackle the challenges that had popped up after I originally finished the Basic JS portion on FCC.
+
+**Link to work:** n/a
+
+
+### Day 11: January 20, 2017
+
+**Today's Progress**: Finished up Basic JavaScript on FCC aka finally caught up to completing all the ones they've added as of 1/20/2017. 👌
+
+**Thoughts:** Most of the challenges were relatively easy and a refresher re: arrays and objects. The last one I did though, I eventually needed to look for some help on.
+
+**Link to work:** n/a
+
+
+### Day 12: January 21, 2017
+
+**Today's Progress**: I spent time on Brad Schiff's "Git a Web Developer Job: Mastering the Modern Workflow" Udemy course adding a sticky header & other elements to the navbar.
+
+**Thoughts:** Brad's course was one I snagged at $10 during Udemy's Black Friday sale, and is easily worth the full $60 (but I'm always one for a sale lol). I'd taken a week or two off the course due to new work and jumped back into it now. I've learned a ton of new things in the course and I'll be watching the videos over (& over) again to further cement all the knowledge and best practices he imparts.
+
+**Link to work:** [Travel site Github commits](https://github.com/kindlingscript/travel-site/commits/master)
