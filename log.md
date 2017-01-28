@@ -83,8 +83,9 @@
 **Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
 
 
-### Day 9: January 18, 2017 aka the DAY WHERE I STOPPED DOING THIS LOG HERE HAHAHA NOW I GOTTA CATCH UP, CATCH ME? yeah
-# check for live updates on my [tweeter-twit](https://twitter.com/kindlingscript) in case I get behind here again ahhh
+### Day 9: January 18, 2017
+#### aka the DAY WHERE I STOPPED DOING THIS LOG HERE HAHahaha yeah, whew, now I gotta catch up
+###### check for live updates on my [tweeter-twit](https://twitter.com/kindlingscript) in case I get behind here again ahhh
 
 **Today's Progress**: I finished adding a default header to the site (blue vs white bg) + more tweaks to blog page styles.
 
@@ -93,7 +94,8 @@
 **Link to work:** [Nashville Stuttering Association WP Github commits](https://github.com/kindlingscript/wp-nashville-nsa/commits/master)
 
 
-### Day 10: January 19, 2017 (omg this was the last full day of the Obama Administration 😭)
+### Day 10: January 19, 2017 
+#### (omg this was the last full day of the Obama Administration 😭)
 
 **Today's Progress**: Took a break from building out the WP website today and went back to complete some JavaScript challenges at Free Code Camp's site.
 
